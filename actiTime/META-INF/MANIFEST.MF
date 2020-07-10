@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: aciTimeTest
+Bundle-SymbolicName: aciTimeTest
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.aciTime.qa.base,
+ com.aciTime.qa.pages,
+ com.aciTime.qa.testcases,
+ com.aciTime.qa.utils,
+ com.aciTime.qa.config
